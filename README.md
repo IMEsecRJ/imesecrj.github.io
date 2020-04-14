@@ -12,4 +12,4 @@ As atividades da IMEsec são conduzidas pelos próprios alunos, desde que foi id
 - Participação em eventos e conferências
 - Integração com diversas instituições acadêmicas afins
 
-`Apoie a IMEsec por meio das campanhas da [Alumni IME](https://www.alumniime.com.br/)!`
+    Apoie a IMEsec por meio das campanhas da [Alumni IME](https://www.alumniime.com.br)!
