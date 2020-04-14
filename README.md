@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Bem-vindos à IMEsec
 
-You can use the [editor on GitHub](https://github.com/IMEsecRJ/imesecrj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A IMEsec é uma iniciativa filiada ao [Instituto Militar de Engenharia (IME)](https://pt.wikipedia.org/wiki/Instituto_Militar_de_Engenharia), *de* e *para* alunos. Seu objetivo é incentivar e fomentar o desenvolvimento profissional e acadêmico dos estudantes na área de Segurança da Informação, fornecendo insumos tangíveis e intangíveis para o constante aperfeiçoamento.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Atividades
 
-### Markdown
+As atividades da IMEsec são conduzidas pelos próprios alunos, desde que foi idealizada. Algumas atividades desenvolvidas:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Encontros regulares para a discussão de temas relacionados à Segurança da Informação
+- Talks virtuais e presenciais com especialistas renomados de diversos segmentos
+- Competições estilo CTF internas e externas
+- Participação em eventos e conferências
+- Integração com diversas instituições acadêmicas afins
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IMEsecRJ/imesecrj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`Apoie a IMEsec por meio das campanhas da [Alumni IME](https://www.alumniime.com.br/)!`
